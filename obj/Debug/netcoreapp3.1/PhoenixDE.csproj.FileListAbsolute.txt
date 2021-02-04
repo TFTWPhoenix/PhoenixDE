@@ -1,0 +1,11 @@
+/home/phoenix/PhoenixDE/bin/Debug/netcoreapp3.1/PhoenixDE
+/home/phoenix/PhoenixDE/bin/Debug/netcoreapp3.1/PhoenixDE.deps.json
+/home/phoenix/PhoenixDE/bin/Debug/netcoreapp3.1/PhoenixDE.runtimeconfig.json
+/home/phoenix/PhoenixDE/bin/Debug/netcoreapp3.1/PhoenixDE.runtimeconfig.dev.json
+/home/phoenix/PhoenixDE/bin/Debug/netcoreapp3.1/PhoenixDE.dll
+/home/phoenix/PhoenixDE/bin/Debug/netcoreapp3.1/PhoenixDE.pdb
+/home/phoenix/PhoenixDE/obj/Debug/netcoreapp3.1/PhoenixDE.csprojAssemblyReference.cache
+/home/phoenix/PhoenixDE/obj/Debug/netcoreapp3.1/PhoenixDE.AssemblyInfoInputs.cache
+/home/phoenix/PhoenixDE/obj/Debug/netcoreapp3.1/PhoenixDE.AssemblyInfo.cs
+/home/phoenix/PhoenixDE/obj/Debug/netcoreapp3.1/PhoenixDE.dll
+/home/phoenix/PhoenixDE/obj/Debug/netcoreapp3.1/PhoenixDE.pdb
