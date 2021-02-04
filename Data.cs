@@ -12,8 +12,8 @@ namespace PhoenixDE {
             "Heard any good news lately?"
         };
 
-        public static ConsoleColor THEMEFOREGROUND = ConsoleColor.White;
-        public static ConsoleColor PROMPTCOLOR = ConsoleColor.Cyan;
+        public static ConsoleColor THEMEFOREGROUND = ConsoleColor.Gray;
+        public static ConsoleColor PROMPTCOLOR = ConsoleColor.Red;
 
     }
 }
